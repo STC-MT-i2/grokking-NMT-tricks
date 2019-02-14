@@ -1,4 +1,8 @@
 # grokking-NMT-tricks
-illustrate the NMT training tricks 
+this repositry, maintained by [Liam](liangding_liam@gmail.com), will illustrate the NMT training tricks. 
+(welcome contributions)
 
-<embed src="https://github.com/alphadl/grokking-NMT-tricks/blob/master/Note%2011%20Jan%202019.pdf" width="850" height="600">
+- powerful r2l reranking strategy(14 Feb. 2019)
+  
+  
+![powerful r2l reranking](https://github.com/alphadl/grokking-NMT-tricks/blob/master/r2l-reranking.jpg)
